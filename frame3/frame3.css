@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#wrap{
+    padding: 0;
+    margin: 0 auto;
+    width: 1250px;
+    height: 1080px;
+}
+
+#header{
+    display: flex; 
+}
+
+.header-1{
+    width: 250px;
+    height: 100px;
+    background-color: #EAE9EE;
+}
+
+.header-2{
+    width: 1000px;
+    height: 100px;
+    background-color: #C2C3D6;
+}
+
+/*  메인  */
+
+#main{
+    display: flex;
+}
+
+.maintop{
+    display: flex;
+    width: 1280px;
+    height: 440px;
+}
+
+.maintop_1{
+    width: 250px;
+    background-color: #E1E1F5;
+}
+
+.maintop_2{
+    width: 730px;
+}
+
+.middle_1{
+    height: 220px;
+    background-color: #C0C0FB;
+}
+
+.middle_2{
+    height: 220px;
+    background-color: #9999EF;
+}
+
+.maintop_3{
+    width: 300px;
+    background-color: #7878D4;
+}
+
+.mainbottom{
+    display: flex;
+    width: 1280px;
+    height: 440px;
+}
+
+.mainbottom_1{
+    width: 130px;
+    background-color: #7878D4;
+}
+
+.mainbottom_2{
+    width: 400px;
+    background-color: #B1B2D5;
+}
+
+.mainbottom_3{
+    width: 750px;
+    background-color: #CACBE4;
+}
+
+/*  바닥  */
+
+#footer{
+    height: 100px;
+    display: flex;
+}
+
+.footer-1{
+    width: 200px;
+    height: 100px;
+    background-color: #3A258A;
+}
+
+.footer-2{
+    width: 880px;
+    height: 100px;
+    background-color: #6469CD;
+}
+
+.footer-3{
+    width: 200px;
+    height: 100px;
+    background-color: #3A258A;
+}
